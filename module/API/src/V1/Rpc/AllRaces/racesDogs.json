@@ -1,0 +1,1111 @@
+{
+    "A": {
+        "races": [
+            {
+                "race": "Affenpinscher"
+            },
+            {
+                "race": "Afghan Hound"
+            },
+            {
+                "race": "Airedale Terrier"
+            },
+            {
+                "race": "Akita"
+            },
+            {
+                "race": "Alaskan Malamute"
+            },
+            {
+                "race": "Alpine Dachsbracke"
+            },
+            {
+                "race": "American Akita"
+            },
+            {
+                "race": "American Cocker Spaniel"
+            },
+            {
+                "race": "American Foxhound"
+            },
+            {
+                "race": "American Staffordshire Terrier"
+            },
+            {
+                "race": "American Water Spaniel"
+            },
+            {
+                "race": "Appenzell Cattle Dog"
+            },
+            {
+                "race": "Ariege Pointing Dog"
+            },
+            {
+                "race": "Ariegois"
+            },
+            {
+                "race": "Artois Hound"
+            },
+            {
+                "race": "Atlas Mountain Dog (Aidi)"
+            },
+            {
+                "race": "Australian Cattle Dog"
+            },
+            {
+                "race": "Australian Kelpie"
+            },
+            {
+                "race": "Australian Shepherd"
+            },
+            {
+                "race": "Australian Silky Terrier"
+            },
+            {
+                "race": "Australian Stumpy Tail Cattle Dog"
+            },
+            {
+                "race": "Australian Terrier"
+            },
+            {
+                "race": "Austrian Black and Tan Hound"
+            },
+            {
+                "race": "Austrian Pinscher"
+            },
+            {
+                "race": "Auvergne Pointer"
+            },
+            {
+                "race": "Azawakh"
+            }
+        ]
+    },
+    "B": {
+        "races": [
+            {
+                "race": "Basenji"
+            },
+            {
+                "race": "Basset Fauve De Bretagne"
+            },
+            {
+                "race": "Basset Hound"
+            },
+            {
+                "race": "Bavarian Mountain Scent Hound"
+            },
+            {
+                "race": "Beagle"
+            },
+            {
+                "race": "Beagle-Harrier"
+            },
+            {
+                "race": "Bearded Collie"
+            },
+            {
+                "race": "Bedlington Terrier"
+            },
+            {
+                "race": "Belgian Shepherd Dog"
+            },
+            {
+                "race": "Bergamasco Shepherd Dog"
+            },
+            {
+                "race": "Berger De Beauce"
+            },
+            {
+                "race": "Bernese Mountain Dog"
+            },
+            {
+                "race": "Bichon Frise"
+            },
+            {
+                "race": "Billy"
+            },
+            {
+                "race": "Black and Tan Coonhound"
+            },
+            {
+                "race": "Bloodhound"
+            },
+            {
+                "race": "Blue Gascony Basset"
+            },
+            {
+                "race": "Blue Gascony Griffon"
+            },
+            {
+                "race": "Blue Picardy Spaniel"
+            },
+            {
+                "race": "Bohemian Wire-Haired Pointing Griffon"
+            },
+            {
+                "race": "Bolognese"
+            },
+            {
+                "race": "Border Collie"
+            },
+            {
+                "race": "Border Terrier"
+            },
+            {
+                "race": "Borzoi-Russian Hunting Sighthound"
+            },
+            {
+                "race": "Bosnian and Herzegovinian-Croatian Shepherd Dog"
+            },
+            {
+                "race": "Bosnian Broken-Haired Hound- Called Barak"
+            },
+            {
+                "race": "Boston Terrier"
+            },
+            {
+                "race": "Bourbonnais Pointing Dog"
+            },
+            {
+                "race": "Bouvier Des Ardennes"
+            },
+            {
+                "race": "Bouvier Des Flandres"
+            },
+            {
+                "race": "Boxer"
+            },
+            {
+                "race": "Brazilian Terrier"
+            },
+            {
+                "race": "Briard"
+            },
+            {
+                "race": "Briquet Griffon Vendeen"
+            },
+            {
+                "race": "Bull Terrier"
+            },
+            {
+                "race": "Bulldog"
+            },
+            {
+                "race": "Bullmastiff"
+            },
+            {
+                "race": "Burgos Pointing Dog"
+            }
+        ]
+    },
+    "C": {
+        "races": [
+            {
+                "race": "Cairn Terrier"
+            },
+            {
+                "race": "Cannan Dog"
+            },
+            {
+                "race": "Canadian Eskimo Dog"
+            },
+            {
+                "race": "Canarian Warren Hound"
+            },
+            {
+                "race": "Castro Laboreiro Dog"
+            },
+            {
+                "race": "Catalan Sheepdog"
+            },
+            {
+                "race": "Caucasian Shepherd Dog"
+            },
+            {
+                "race": "Cavalier King Charles Spaniel"
+            },
+            {
+                "race": "Central Asia Shepherd Dog"
+            },
+            {
+                "race": "Cesky Terrier"
+            },
+            {
+                "race": "Chesapeake Bay Retriever"
+            },
+            {
+                "race": "Chihuahua"
+            },
+            {
+                "race": "Chinese Crested Dog"
+            },
+            {
+                "race": "Chow Chow"
+            },
+            {
+                "race": "Cimarrón Uruguayo"
+            },
+            {
+                "race": "Cirneco Del Etna"
+            },
+            {
+                "race": "Coarse-Haired Styrian Hound"
+            },
+            {
+                "race": "Collie Rough"
+            },
+            {
+                "race": "Collie Smooth"
+            },
+            {
+                "race": "Continental Toy Spaniel"
+            },
+            {
+                "race": "Coton De Tulear"
+            },
+            {
+                "race": "Croatian Shepherd Dog"
+            },
+            {
+                "race": "Curly Coated Retriever"
+            },
+            {
+                "race": "Czechoslovakian Wolfdog"
+            }
+        ]
+    },
+    "D": {
+        "races": [
+            {
+                "race": "Dachshund"
+            },
+            {
+                "race": "Dalmatian"
+            },
+            {
+                "race": "Dandie Dinmont Terrier"
+            },
+            {
+                "race": "Danish-Swedish Farmdog"
+            },
+            {
+                "race": "Deerhound"
+            },
+            {
+                "race": "Deutsch Lanhaar"
+            },
+            {
+                "race": "Deutsch Stichelhaar"
+            },
+            {
+                "race": "Dobermann"
+            },
+            {
+                "race": "Dogo Argentinian"
+            },
+            {
+                "race": "Dogo Canario"
+            },
+            {
+                "race": "Dogue De Bordeaux"
+            },
+            {
+                "race": "Drentsche Partridge Dog"
+            },
+            {
+                "race": "Drever"
+            },
+            {
+                "race": "Dutch Schapendoes"
+            },
+            {
+                "race": "Dutch Shepherd Dog"
+            },
+            {
+                "race": "Dutch Smoushond"
+            }
+        ]
+    },
+    "E": {
+        "races": [
+            {
+                "race": "East Siberian Laika"
+            },
+            {
+                "race": "English Cocker Spaniel"
+            },
+            {
+                "race": "English Foxhound"
+            },
+            {
+                "race": "English Pointer"
+            },
+            {
+                "race": "English Setter"
+            },
+            {
+                "race": "English Springer Spaniel"
+            },
+            {
+                "race": "English Toy Terrier(Black &Tan)"
+            },
+            {
+                "race": "Entlebuch Cattle Dog"
+            },
+            {
+                "race": "Etrela Mountain Dog"
+            },
+            {
+                "race": "Eurasian"
+            }
+        ]
+    },
+    "F": {
+        "races": [
+            {
+                "race": "Fawn Brittany Griffon"
+            },
+            {
+                "race": "Field Spaniel"
+            },
+            {
+                "race": "Fila Brasileiro"
+            },
+            {
+                "race": "Finnish Hound"
+            },
+            {
+                "race": "Finnish Lapponian Dog"
+            },
+            {
+                "race": "Finnish Spitz"
+            },
+            {
+                "race": "Flat Coated Retriever"
+            },
+            {
+                "race": "Fox Terrier (Smooth)"
+            },
+            {
+                "race": "Fox Terrier (Wire)"
+            },
+            {
+                "race": "French Bulldog"
+            },
+            {
+                "race": "French Pointing Dog- Gascogne Type"
+            },
+            {
+                "race": "French Pointing Dog- Pyrenean Type"
+            },
+            {
+                "race": "French Tricolour Hound"
+            },
+            {
+                "race": "French Water Dog"
+            },
+            {
+                "race": "French White & Black Hound"
+            },
+            {
+                "race": "French White & Orange Hound"
+            },
+            {
+                "race": "Frisian Water Dog"
+            }
+        ]
+    },
+    "G": {
+        "races": [
+            {
+                "race": "Gascon Saintongeois"
+            },
+            {
+                "race": "German Hound"
+            },
+            {
+                "race": "German Hunting Terrier"
+            },
+            {
+                "race": "German Pinscher"
+            },
+            {
+                "race": "German Shepherd Dog"
+            },
+            {
+                "race": "German Short-Haired Pointing Dog"
+            },
+            {
+                "race": "German Spaniel"
+            },
+            {
+                "race": "German Spitz"
+            },
+            {
+                "race": "German Wire-Haired Pointing Dog"
+            },
+            {
+                "race": "Giant Schnauzer"
+            },
+            {
+                "race": "Golden Retriever"
+            },
+            {
+                "race": "Gordon Setter"
+            },
+            {
+                "race": "Grand Basset Griffon Vendeen"
+            },
+            {
+                "race": "Grand Griffon Vendeen"
+            },
+            {
+                "race": "Great Anglo-French Tricolour Hound"
+            },
+            {
+                "race": "Great Anglo-French White & Orange Hound"
+            },
+            {
+                "race": "Great Anglo-French White & Black Hound"
+            },
+            {
+                "race": "Great Dane"
+            },
+            {
+                "race": "Great Gascony Blue"
+            },
+            {
+                "race": "Great Swiss Mountain Dog"
+            },
+            {
+                "race": "Greenland Dog"
+            },
+            {
+                "race": "Greyhound"
+            },
+            {
+                "race": "Griffon Belge"
+            },
+            {
+                "race": "Griffon Bruxellois"
+            },
+            {
+                "race": "Griffon  Nivernais"
+            }
+        ]
+    },
+    "H": {
+        "races": [
+            {
+                "race": "Halden Hound"
+            },
+            {
+                "race": "Hamilstonstövare"
+            },
+            {
+                "race": "Hanoverian Scent Hound"
+            },
+            {
+                "race": "Harrier"
+            },
+
+            {
+                "race": "Havanese"
+            },
+            {
+                "race": "Hellenic Hound"
+            },
+            {
+                "race": "Hokkaido"
+            },
+            {
+                "race": "Hovawart"
+            },
+            {
+                "race": "Hungarian Greyhound"
+            },
+            {
+                "race": "Hungarian Hound-Transylvanian Scent Hound"
+            },
+            {
+                "race": "Hungarian Short-Haired Pointer (Vizsla)"
+            },
+            {
+                "race": "Hungarian Wire-Haired Pointer"
+            },
+            {
+                "race": "Hygen Hound"
+            }
+        ]
+    },
+    "I": {
+        "races": [
+            {
+                "race": "Ibizan Podenco"
+            },
+            {
+                "race": "Icelandic Sheepdog"
+            },
+            {
+                "race": "Irish Glen Of Imaal Terrier"
+            },
+            {
+                "race": "Irish Red and White Setter"
+            },
+            {
+                "race": "Irish Red Setter"
+            },
+            {
+                "race": "Irish Coated Wheaten Terrier"
+            },
+            {
+                "race": "Irish TTerrier"
+            },
+            {
+                "race": "Irish Water Spaniel"
+            },
+            {
+                "race": "Irish Wolfhound"
+            },
+            {
+                "race": "Istrian Short-Haired Hound"
+            },
+            {
+                "race": "Istrian Wire-Haired Hound"
+            },
+            {
+                "race": "Italian Cane Corso"
+            },
+            {
+                "race": "Italian Pointing Dog"
+            },
+            {
+                "race": "Italian Rough-Haired Segugio"
+            },
+            {
+                "race": "Italian Short-Haired Segugio"
+            },
+            {
+                "race": "Italian Sighthound"
+            },
+            {
+                "race": "Italian Volpino"
+            }
+        ]
+    },
+    "J": {
+        "races": [
+            {
+                "race": "Japanese Chin"
+            },
+            {
+                "race": "Japanese Spitz"
+            },
+            {
+                "race": "Japanese Terrier"
+            },
+            {
+                "race": "Jack Russell Terrier"
+            },
+            {
+                "race": "Jämthund"
+            }
+        ]
+    },
+    "K": {
+        "races": [
+            {
+                "race": "Kai"
+            },
+            {
+                "race": "Kangal Shepherd Dog"
+            },
+            {
+                "race": "Karelian Bear Dog"
+            },
+            {
+                "race": "Karst Shepherd Dog"
+            },
+            {
+                "race": "Kerry Blue Terrier"
+            },
+            {
+                "race": "King Charles Spaniel"
+            },
+            {
+                "race": "Kishu"
+            },
+            {
+                "race": "Kleiner Münsterländer"
+            },
+            {
+                "race": "Komondor"
+            },
+            {
+                "race": "Korea Jindo Dog"
+            },
+            {
+                "race": "Kromfohrländer"
+            },
+            {
+                "race": "Kuvasz"
+            }
+        ]
+    },
+    "L": {
+        "races": [
+            {
+                "race": "Labrador Retriever"
+            },
+            {
+                "race": "Lakeland Terrier"
+            },
+            {
+                "race": "Lancashire Heeler"
+            },
+            {
+                "race": "Landseer (European Continental Type)"
+            },
+            {
+                "race": "Lapponian Herder"
+            },
+            {
+                "race": "Large Munsterlander"
+            },
+            {
+                "race": "Leonberger"
+            },
+            {
+                "race": "Lhasa Apso"
+            },
+            {
+                "race": "Little Lion Dog"
+            },
+            {
+                "race": "Long-Haired Pyrenean Sheepdog"
+            }
+        ]
+    },
+    "M": {
+        "races": [
+            {
+                "race": "Majorca Mastiff"
+            },
+            {
+                "race": "Majorca Shepherd Dog"
+            },
+            {
+                "race": "Maltese"
+            },
+            {
+                "race": "Manchester Terrier"
+            },
+            {
+                "race": "Maremma and The Abruzzes Sheepdog"
+            },
+            {
+                "race": "Medium-Sized Anglo-French Hound"
+            },
+            {
+                "race": " Miniature Bull Terrier"
+            },
+            {
+                "race": "Miniature Pinscher"
+            },
+            {
+                "race": "Miniature Schnauzer"
+            },
+            {
+                "race": "Montenegrin Mountain Hound"
+            },
+            {
+                "race": "Mundi"
+            }
+        ]
+    },
+    "N": {
+        "races": [
+            {
+                "race": "Neapolitan Mastiff"
+            },
+            {
+                "race": "Nederlandse Kooikerhondje"
+            },
+            {
+                "race": "Newfoundland"
+            },
+            {
+                "race": "Norfolk Terrier"
+            },
+            {
+                "race": "Norman Artesien Basset"
+            },
+            {
+                "race": "Norrbottenspitz"
+            },
+            {
+                "race": "Norwegian Buhund"
+            },
+            {
+                "race": "Norwegian Elkhound Black"
+            },
+            {
+                "race": "Norwegian Elkhound Grey"
+            },
+            {
+                "race": "Norwegian Hound"
+            },
+            {
+                "race": "Norwich Terrier"
+            },
+            {
+                "race": "Nova Scotia Duck Tolling Retriever"
+            }
+        ]
+    },
+    "O": {
+        "races": [
+            {
+                "race": "Otterhound"
+            },
+            {
+                "race": "Old Danish Pointing Dog"
+            },
+            {
+                "race": "Old English Sheepdog"
+            }
+        ]
+    },
+    "P": {
+        "races": [
+            {
+                "race": "Parson Russell Terrier"
+            },
+            {
+                "race": "Pekingese"
+            },
+            {
+                "race": "Peruvian Hairless Dog"
+            },
+            {
+                "race": "Petit Basset Griffon Vendeen"
+            },
+            {
+                "race": "Petit Brabaçon"
+            },
+            {
+                "race": "Pharaoh Hound"
+            },
+            {
+                "race": "Picardy Sheepdog"
+            },
+            {
+                "race": "Poitevin"
+            },
+            {
+                "race": "Polish Greyhound"
+            },
+            {
+                "race": "Polish Hound"
+            },
+            {
+                "race": "Polish Hunting Dog"
+            },
+            {
+                "race": "Polish Lowland Sheepdog"
+            },
+            {
+                "race": "Poodle"
+            },
+            {
+                "race": "Porcelaine"
+            },
+            {
+                "race": "Portuguese Pointing Dog"
+            },
+            {
+                "race": "Portuguese Sheepdog"
+            },
+            {
+                "race": "Portuguese Warren Hound-Portuguese Podengo"
+            },
+            {
+                "race": "Posavatz Hound"
+            },
+            {
+                "race": "Pug"
+            },
+            {
+                "race": "Puli"
+            },
+            {
+                "race": "Pyrenean Mastiff"
+            },
+            {
+                "race": "Pyrenean Mountain Dog"
+            },
+            {
+                "race": "Pyrenean Sheepdog-Smooth Faced"
+            },
+            {
+                "race": "Pumi"
+            }
+        ]
+    },
+    "Q": {
+        "races": [
+            {
+                "race": ""
+            }
+        ]
+    },
+    "R": {
+        "races": [
+            {
+                "race": "Rafeiro Of Alentejo"
+            },
+            {
+                "race": "Rhodesian Ridgeback"
+            },
+            {
+                "race": "Romagna Water Dog"
+            },
+            {
+                "race": "Romanian Bucovina Shepherd"
+            },
+            {
+                "race": "Romanian Carpathian Shepherd Dog"
+            },
+            {
+                "race": "Romanian Mioritic Shepherd Dog"
+            },
+            {
+                "race": "Rottweiler"
+            },
+            {
+                "race": "Russian Black Terrier"
+            },
+            {
+                "race": "Russian Toy"
+            },
+            {
+                "race": "Russian-European Laika"
+            }
+        ]
+    },
+    "S": {
+        "races": [
+            {
+                "race": "Saarloos Wolfhond"
+            },
+            {
+                "race": "Saint Germain Pointer"
+            },
+            {
+                "race": "Saint Miguel Cattle Dog"
+            },
+            {
+                "race": "Saluki"
+            },
+            {
+                "race": "Samoyed"
+            },
+            {
+                "race": "Schillerstövare"
+            },
+            {
+                "race": "Schipperke"
+            },
+            {
+                "race": "Schnauzer"
+            },
+            {
+                "race": "Scottish Terrier"
+            },
+            {
+                "race": "Sealyham Terrier"
+            },
+            {
+                "race": "Segugio Maremmano"
+            },
+            {
+                "race": "Serbian Tricolour Hound"
+            },
+            {
+                "race": "Shar Pei"
+            },
+            {
+                "race": "Shetland Sheepdog"
+            },
+            {
+                "race": "Shiba"
+            },
+            {
+                "race": "Shih Tzu"
+            },
+            {
+                "race": "Shikoku"
+            },
+            {
+                "race": "Siberian Husky"
+            },
+            {
+                "race": "Skye Terrier"
+            },
+            {
+                "race": "Sloughi"
+            },
+            {
+                "race": "Slovakian Chuvach"
+            },
+            {
+                "race": "Slovakian Hound"
+            },
+            {
+                "race": "Smalandsstövare"
+            },
+            {
+                "race": "Small Blue Gascony"
+            },
+            {
+                "race": "Small Swiss Hound"
+            },
+            {
+                "race": "South Russian Shepherd Dog"
+            },
+            {
+                "race": "Spanish Greyhound"
+            },
+            {
+                "race": "Spanish Hound"
+            },
+            {
+                "race": "Spanish Mastiff"
+            },
+            {
+                "race": "Spanish Water Dog"
+            },
+            {
+                "race": "St. Bernard"
+            },
+            {
+                "race": "Stabijhoun"
+            },
+            {
+                "race": "Staffordshire Bull Terrier"
+            },
+            {
+                "race": "Sussex Spaniel"
+            },
+            {
+                "race": "Swedish Lapphund"
+            },
+            {
+                "race": "Swedish Vallhund"
+            },
+            {
+                "race": "Swiss Hound"
+            }
+        ]
+    },
+    "T": {
+        "races": [
+            {
+                "race": "Taiwan Dog"
+            },
+            {
+                "race": "Tatra Shepherd Dog"
+            },
+            {
+                "race": "Thai Bangkaew Dog"
+            },
+            {
+                "race": "Thai Ridgeback Dog"
+            },
+            {
+                "race": "Tibetan Mastiff"
+            },
+            {
+                "race": "Tibetan Spaniel"
+            },
+            {
+                "race": "Tibetan Terrier"
+            },
+            {
+                "race": "Tosa"
+            },
+            {
+                "race": "Tyrolean Hound"
+            }
+        ]
+    },
+    "U": {
+        "races": [
+            {
+                "race": ""
+            }
+        ]
+    },
+    "V": {
+        "races": [
+            {
+                "race": ""
+            }
+        ]
+    },
+    "W": {
+        "races": [
+            {
+                "race": "Weimaraner"
+            },
+            {
+                "race": "Welsh Corgi (Cardigan)"
+            },
+            {
+                "race": "Welsh Corgi (Pembroke)"
+            },
+            {
+                "race": "Welsh Spriger Spaniel"
+            },
+            {
+                "race": "West Highland White Terrier"
+            },
+            {
+                "race": "West Siberian Laika"
+            },
+            {
+                "race": "Westphalian Dachsbracke"
+            },
+            {
+                "race": "Whippet"
+            },
+            {
+                "race": "White Swiss Shepherd Dog"
+            },
+            {
+                "race": "Wire-Haired Pointing Griffon Korthals"
+            },
+            {
+                "race": "Wirehaired Slovakian Pointer"
+            }
+        ]
+    },
+    "X": {
+        "races": [
+            {
+                "race": "Xoloitcuintle"
+            }
+        ]
+    },
+    "Y": {
+        "races": [
+            {
+                "race": "Yorkshire Terrier"
+            },
+            {
+                "race": "Yugoslavian Shepherd Dog - Sharplanina"
+            }
+        ]
+    }
+}

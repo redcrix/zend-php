@@ -1,0 +1,272 @@
+{
+    "A": {
+        "countries": [
+            {
+                "country": "Abyssinian"
+            },
+            {
+                "country": "American Bobtail"
+            },
+            {
+                "country": "American Curl"
+            },
+            {
+                "country": "American Shorthair"
+            },
+            {
+                "country": "American Wirehair"
+            }
+        ]
+    },
+    "B": {
+        "countries": [
+            {
+                "country": "Balinese"
+            },
+            {
+                "country": "Bengal Cats"
+            },
+            {
+                "country": "Birman"
+            },
+            {
+                "country": "Bombay"
+            },
+            {
+                "country": "British Shorthair"
+            },
+            {
+                "country": "Burmese"
+            },
+            {
+                "country": "Burmill"
+            }
+        ]
+    },
+    "C": {
+        "countries": [
+            {
+                "country": "Chartreux"
+            },
+            {
+                "country": "Chinese Li Hua"
+            },
+            {
+                "country": "Colorpoint Shorthair"
+            },
+            {
+                "country": "Cornish Rex"
+            },
+            {
+                "country": "Cymric"
+            }
+        ]
+    },
+    "D": {
+        "countries": [
+            {
+                "country": "Devon Rex"
+            }
+        ]
+    },
+    "E": {
+        "countries": [
+            {
+                "country": "Egyptian Mau"
+            },
+            {
+                "country": "Egypt"
+            },
+            {
+                "country": "European Burmese"
+            },
+            {
+                "country": "Exotic"
+            }
+        ]
+    },
+    "F": {
+        "countries": [
+            {
+                "country": ""
+            }
+        ]
+    },
+    "G": {
+        "countries": [
+            {
+                "country": ""
+            }
+        ]
+    },
+    "H": {
+        "countries": [
+            {
+                "country": "Havana Brown"
+            },
+            {
+                "country": "Himalayan"
+            }
+        ]
+    },
+    "I": {
+        "countries": [
+            {
+                "country": ""
+            }
+        ]
+    },
+    "J": {
+        "countries": [
+            {
+                "country": "Japanese Bobtail"
+            },
+            {
+                "country": "Javanese"
+            }
+        ]
+    },
+    "K": {
+        "countries": [
+            {
+                "country": "Korat"
+            }
+        ]
+    },
+    "L": {
+        "countries": [
+            {
+                "country": "LaPerm"
+            }
+        ]
+    },
+    "M": {
+        "countries": [
+            {
+                "country": "Maine Coon"
+            },
+            {
+                "country": "Manx"
+            }
+        ]
+    },
+    "N": {
+        "countries": [
+            {
+                "country": "Nebelung"
+            },
+            {
+                "country": "Norwegian Forest"
+            }
+        ]
+    },
+    "O": {
+        "countries": [
+            {
+                "country": "Ocicat"
+            },
+            {
+                "country": "Oriental"
+            }
+        ]
+    },
+    "P": {
+        "countries": [
+            {
+                "country": "Persian"
+            },
+            {
+                "country": "Pixie-Bob"
+            }
+        ]
+    },
+    "Q": {
+        "countries": [
+            {
+                "country": ""
+            }
+        ]
+    },
+    "R": {
+        "countries": [
+            {
+                "country": "Ragamuffin"
+            },
+            {
+                "country": "Ragdoll Cats"
+            },
+            {
+                "country": "Russian Blue"
+            }
+        ]
+    },
+    "S": {
+        "countries": [
+            {
+                "country": "Savannah"
+            },
+            {
+                "country": "Scottish Fold"
+            },
+            {
+                "country": "Selkirk Rex "
+            },
+            {
+                "country": "Siamese Cat"
+            },
+            {
+                "country": "Siberian"
+            },
+            {
+                "country": "Singapura "
+            },
+            {
+                "country": "Snowshoe"
+            },
+            {
+                "country": "Sphynx"
+            }
+        ]
+    },
+    "T": {
+        "countries": [
+            {
+                "country": "Tonkinese"
+            },
+            {
+                "country": "Turkish Angora"
+            },
+            {
+                "country": "Turkish Van"
+            }
+        ]
+    },
+    "U": {
+        "countries": [
+            {
+                "country": ""
+            }
+        ]
+    },
+    "V": {
+        "countries": [
+            {
+                "country": ""
+            }
+        ]
+    },
+    "W": {
+        "countries": [
+            {
+                "country": ""
+            }
+        ]
+    },
+    "Z": {
+        "countries": [
+            {
+                "country": ""
+            }
+        ]
+    }
+}

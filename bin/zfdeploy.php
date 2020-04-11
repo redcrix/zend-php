@@ -1,0 +1,1 @@
+../vendor/zfcampus/zf-deploy/bin/zfdeploy.php

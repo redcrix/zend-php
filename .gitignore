@@ -1,0 +1,12 @@
+.vagrant/
+vendor/
+config/development.config.php
+data/cache/*
+!data/cache/.gitkeep
+phpunit.xml
+/nbproject/private/
+/data/imagens/
+/data/erros/
+/data/impressos/
+nbproject/project.xml
+nbproject/project.properties
